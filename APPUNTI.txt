@@ -1,0 +1,9 @@
+Trigger che effettua l'hashing della password dell'amministratore
+mediante SHA 512, che ritorna un digest di 128 caratteri
+
+Trigger che rieffettua l'hashing della password dell'amministratore
+mediante SHA 512, che ritorna un digest di 128 caratteri
+
+
+
+
